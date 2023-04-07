@@ -3,37 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      line-height: 1.5;
-    }
-    h1, h2, h3 {
-      margin-top: 40px;
-    }
-    code {
-      font-family: monospace;
-      background-color: #f9f9f9;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-    li:before {
-      content: "•";
-      color: #999;
-      font-weight: bold;
-      display: inline-block;
-      width: 1em;
-      margin-left: -1em;
-    }
-  </style>
+
 </head>
 <body>
   <h1>Real Time Chat App</h1>
