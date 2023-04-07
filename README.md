@@ -3,8 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Real Time Chat App by Hasan CELİK</title>
   <style>
     body {
       font-family: sans-serif;
